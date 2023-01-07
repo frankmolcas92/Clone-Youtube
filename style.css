@@ -2,7 +2,7 @@ body{
     background-color: rgb(15, 15, 15 );
     color: white;
     margin-top: 0.3cm;
-    margin-right: 0.5cm;
+    margin-right: 0.8cm;
     display: grid;
     grid-template-columns: 6% 94%;
 }
